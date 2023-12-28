@@ -1,0 +1,163 @@
+2023-12-10 13:37:38,695 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-10 13:37:39,511 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-10 13:37:39,511 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-10 13:37:39,879 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-10 13:37:39,880 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-10 13:37:40,127 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-10 13:37:40,830 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-10 13:37:41,613 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-10 13:37:42,791 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-10 13:38:48,300 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-10 13:38:49,248 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-10 13:38:49,248 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-10 13:38:49,639 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-10 13:38:49,640 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-10 13:38:49,886 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-10 13:38:50,657 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-10 13:38:51,454 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-10 13:38:52,657 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-10 13:38:52,864 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 16:00:25,137 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 16:00:30,792 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 16:00:30,792 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 16:00:31,442 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 16:00:31,443 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 16:00:32,448 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 16:00:35,813 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 16:00:36,926 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 16:00:38,567 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 16:00:38,874 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 16:46:43,821 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 16:46:45,450 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 16:46:45,451 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 16:46:45,883 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 16:46:45,883 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 16:46:46,309 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 16:46:47,296 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 16:46:48,036 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 16:46:49,262 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 16:46:49,505 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 19:56:50,159 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 19:58:35,077 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 19:58:37,308 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 19:58:37,308 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 19:58:37,745 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 19:58:37,745 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 19:58:39,103 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 19:58:41,353 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 19:58:42,228 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 19:58:43,578 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 19:58:43,848 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 19:58:55,858 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:00:36,493 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:00:37,333 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:00:37,333 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:00:37,705 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:00:37,705 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:00:37,947 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:00:38,905 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:00:39,611 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:00:42,686 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:00:43,072 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:00:50,703 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:04:18,349 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:04:19,236 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:04:19,236 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:04:19,634 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:04:19,635 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:04:19,892 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:04:20,524 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:04:21,317 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:04:22,492 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:04:22,672 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:04:33,826 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:04:54,811 :INFO : test_e2e_product_order: Rendering all filtered product
+2023-12-13 20:04:55,323 :INFO : test_e2e_product_order: the filtered product match the product in the list
+2023-12-13 20:04:55,729 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:04:56,582 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:04:56,582 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:04:56,983 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:04:56,983 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:04:57,210 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:04:57,536 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:04:58,273 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:04:59,421 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:04:59,593 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:05:11,155 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:09:30,912 :INFO : test_e2e_product_order: Rendering all filtered product
+2023-12-13 20:09:31,428 :INFO : test_e2e_product_order: the filtered product match the product in the list
+2023-12-13 20:09:31,966 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:09:32,892 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:09:32,892 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:09:33,294 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:09:33,294 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:09:33,551 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:09:33,943 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:09:34,718 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:09:35,993 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:09:36,194 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:09:43,665 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:12:52,500 :INFO : test_e2e_product_order: Rendering all filtered product
+2023-12-13 20:12:53,139 :INFO : test_e2e_product_order: the filtered product match the product in the list
+2023-12-13 20:12:53,624 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:12:54,506 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:12:54,506 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:12:54,882 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:12:54,882 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:12:55,131 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:12:55,560 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:12:56,357 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:12:57,506 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:12:57,800 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:13:07,642 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:14:21,538 :INFO : test_e2e_product_order: Rendering all filtered product
+2023-12-13 20:14:22,003 :INFO : test_e2e_product_order: the filtered product match the product in the list
+2023-12-13 20:14:22,416 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:14:23,297 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:14:23,297 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:14:23,659 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:14:23,659 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:14:23,886 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:14:24,286 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:14:25,154 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:14:26,377 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:14:26,636 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:15:17,475 :INFO : test_e2e_product_order: Rendering all filtered product
+2023-12-13 20:15:17,943 :INFO : test_e2e_product_order: the filtered product match the product in the list
+2023-12-13 20:15:24,171 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:15:25,032 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:15:25,032 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:15:25,417 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:15:25,418 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:15:25,665 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:15:26,044 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:15:26,805 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:15:27,930 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:15:28,158 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:15:34,741 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:16:34,888 :INFO : test_e2e_product_order: Rendering all filtered product
+2023-12-13 20:16:35,387 :INFO : test_e2e_product_order: the filtered product match the product in the list
+2023-12-13 20:16:47,930 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:16:48,900 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:16:48,900 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:16:49,276 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:16:49,276 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:16:49,509 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:16:49,937 :ERROR : test_add_to_cart_button_in_product: the add to cart button is not changed to "Added" when clicked
+2023-12-13 20:16:50,762 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:16:51,946 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:16:52,215 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:17:11,050 :INFO : test_cart_product_list: adding the products to the cart
+2023-12-13 20:20:54,315 :INFO : test_e2e_product_order: Rendering all filtered product
+2023-12-13 20:20:54,875 :INFO : test_e2e_product_order: the filtered product match the product in the list
+2023-12-13 20:21:01,079 :INFO : test_product_addtocart_and_quantity: adding 10 quantity for the product 
+2023-12-13 20:21:01,958 :INFO : test_product_addtocart_and_quantity: The Incremented quantity matches the input quantity
+2023-12-13 20:21:01,958 :INFO : test_product_addtocart_and_quantity: minus 5 quantity for the product 
+2023-12-13 20:21:02,332 :INFO : test_product_addtocart_and_quantity: The decremented  quantity matches the quantity of the product
+2023-12-13 20:21:02,332 :INFO : test_product_addtocart_and_quantity: Try to reduce the quantity below minimum quantity
+2023-12-13 20:21:02,566 :INFO : test_product_addtocart_and_quantity: The minimum quatity for product is not below zero
+2023-12-13 20:21:02,909 :INFO : test_add_to_cart_button_in_product: ADDED text appeared after add to cart button is clicked
+2023-12-13 20:21:03,664 :INFO : test_cart_dropbox: adding the products to the cart
+2023-12-13 20:21:04,895 :INFO : test_cart_dropbox: verifing the product in the cart dropdown element and it's values
+2023-12-13 20:21:05,155 :INFO : test_cart_dropdown_x_button: adding the products to the cart
+2023-12-13 20:21:16,260 :INFO : test_cart_product_list: adding the products to the cart
